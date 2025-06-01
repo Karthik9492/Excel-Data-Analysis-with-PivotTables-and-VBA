@@ -20,11 +20,18 @@ Interactive slicers for filtering by month
 
 Basic **VBA** for dynamic reporting and content automation of filtering and pivottable changes
 
+This VBA codes changes all filter and piovttable when customer name changes in dashboard
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/75c0aa88-6361-4fe6-a237-3a2edda60d2f" />
+
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/f98b78db-c6d2-4e92-b1fc-4f4f22ac674f" />
+
+
+
 ## 🖥️ Dashboard Preview
 
 <img width="752" alt="image" src="https://github.com/user-attachments/assets/a0f85ff8-8940-42dd-bf69-e7676f8d1aa0" />
 
 ## 📁 File Included
 
- `CustomerOrderDashboard.xlsx`: Excel file containing both datasets and the dashboard.
+ `Dashboard.xltm`: Excel file containing both datasets and the dashboard.
 
